@@ -1,0 +1,6 @@
+[book]
+authors = ["Alex Tuft"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Themis Device Software Developer Guide"
